@@ -1,0 +1,24 @@
+.contSecciones ol{
+  margin :  0 auto;
+  max-width: 650px;
+  height: 50px;
+}
+.contSecciones ol li  {
+  margin-left: 0px;
+  float: left;
+  list-style: none;
+
+}
+.contSecciones ol li  a {
+  display : block;
+  min-width: 200px;
+  line-height : 50px;
+  text-align : center;
+  text-decoration : none;
+  color: red;
+}
+
+.contSecciones ol li a:hover{
+  background-color: #2B2E4A;
+  color: white;
+}

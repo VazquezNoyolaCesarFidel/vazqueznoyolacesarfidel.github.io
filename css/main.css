@@ -1,0 +1,53 @@
+
+.poiret{
+  font-family: 'Poiret One', cursive;
+}
+
+.cinzel{
+  font-family: 'Cinzel', serif;
+}
+.raleway{
+    font-family: 'Raleway', sans-serif;
+}
+
+.titulo{
+  font-size: 2.5em;
+  color: #FFFFFF;
+}
+.tituloIndex{
+  font-size: 2.5em;
+  color: #2B2E4A;
+}
+.subtitulo{
+  font-size: 1.5em;
+  color: #E84545;
+}
+.nomAutor{
+  font-size: 1em;
+  color:  #546E7A;
+}
+.centrado{
+  text-align: center;
+}
+.textoBlanco{
+  color: white;
+}
+.tamañoParrafo{
+  margin: 0 auto;
+  width: auto;
+  max-width: 650px;
+  text-align: justify;
+  color: #78909C;
+
+}
+.espacioParrafos{
+  padding-top: 20px;
+}
+.imagenes{
+  width: 400px;
+  display: block;
+  margin: 0px auto;
+}
+.definiciones{
+  color: #D6B486;
+}
